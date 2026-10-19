@@ -10,3 +10,4 @@
 * **7-movethatfile**: moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 * **8-firstdelete**: deletes the file `betty` in `/tmp/my_first_directory`.
 * **11-lists**: lists the contents of the current directory, the parent directory, and the `/boot` directory, including hidden files, in a long format.
+* **12-file_type**: prints the type of the file named `iamafile`, located in the `/tmp` directory.
