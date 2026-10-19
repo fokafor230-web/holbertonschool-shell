@@ -9,4 +9,4 @@
 * **6-firstdirectory**: creates a directory named `my_first_directory` in the `/tmp/` directory.
 * **7-movethatfile**: moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 * **8-firstdelete**: deletes the file `betty` in `/tmp/my_first_directory`.
-* **11-lists**: lists the contents of the current directory, the parent directory, and the `/boot` directory, in a long format.
+* **11-lists**: lists the contents of the current directory, the parent directory, and the `/boot` directory, including hidden files, in a long format.
