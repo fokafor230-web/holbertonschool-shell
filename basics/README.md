@@ -11,3 +11,4 @@
 * **8-firstdelete**: deletes the file `betty` in `/tmp/my_first_directory`.
 * **11-lists**: lists the contents of the current directory, the parent directory, and the `/boot` directory, including hidden files, in a long format.
 * **12-file_type**: prints the type of the file named `iamafile`, located in the `/tmp` directory.
+* **13-symbolic_link**: creates a symbolic link to `/bin/ls`, named `__ls__`, in the current working directory.
