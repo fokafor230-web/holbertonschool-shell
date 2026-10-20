@@ -14,3 +14,4 @@ This repository contains shell scripting exercises from the Holberton School cur
 8-James_Bond: sets the permissions of the file hello to no permission for the owner and group, and all permissions for other users
 9-John_Doe: sets the mode of the file hello to -rwxr-x-wx
 10-mirror_permissions: sets the mode of the file hello to the same mode as olleh
+11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
