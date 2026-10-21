@@ -23,3 +23,4 @@ This repository contains shell scripting exercises from the Holberton School cur
 16-if_only: changes the owner of the file hello to vincent only if it is owned by the user guillaume
 0-hello_world: prints "Hello, World", followed by a new line, to the standard output
 3-twofiles: displays the content of /etc/passwd and /etc/hosts
+5-firstlines: displays the first 10 lines of /etc/passwd
