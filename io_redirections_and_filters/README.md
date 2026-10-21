@@ -12,3 +12,4 @@
 * **9-duplicate_last_line**: duplicates the last line of the file `iacta`, located in the working directory.
 * **9-duplicate_last_line**: duplicates the last line of the file `iacta`, located in the working directory.
 * **10-no_more_js**: deletes all the regular files with a `.js` extension in the current directory and all its subfolders.
+11-directories: counts the number of directories and sub-directories in the current directory, including hidden ones

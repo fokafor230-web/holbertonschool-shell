@@ -25,3 +25,4 @@ This repository contains shell scripting exercises from the Holberton School cur
 3-twofiles: displays the content of /etc/passwd and /etc/hosts
 5-firstlines: displays the first 10 lines of /etc/passwd
 8-cwd_state: writes the result of ls -la into the file ls_cwd_content, overwriting it if it exists
+11-directories: counts the number of directories and sub-directories in the current directory, including hidden ones
