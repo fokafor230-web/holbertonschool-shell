@@ -1,1 +1,3 @@
-0-hello_world: prints "Hello, World", followed by a new line, to the standard output
+# io_redirections_and_filters
+
+* **1-confused_smiley**: displays a confused smiley `"(Ôo)'`.
