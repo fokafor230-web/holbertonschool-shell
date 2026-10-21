@@ -35,3 +35,4 @@ This repository contains shell scripting exercises from the Holberton School cur
 18-letteronly: displays all lines of the file /etc/ssh/sshd_config starting with a letter, capital letters included
 19-AZ: replaces all characters A and c from input with Z and e respectively
 20-hiago: removes all letters c and C from input
+21-reverse: reverses its input
