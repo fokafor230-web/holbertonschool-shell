@@ -38,3 +38,4 @@ This repository contains shell scripting exercises from the Holberton School cur
 21-reverse: reverses its input
 22-users_and_homes: displays all users and their home directories, sorted by users, based on the /etc/passwd file
 0-alias: creates an alias named ls with the value rm -f *
+1-hello_you: prints hello user, where user is the current Linux user
