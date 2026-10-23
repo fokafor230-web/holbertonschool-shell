@@ -11,3 +11,5 @@
 10-love_exponent_breath: displays the result of BREATH to the power LOVE
 11-binary_to_decimal: converts a number from base 2 to base 10, taking the binary number from the environment variable BINARY
 12-combinations: prints all possible combinations of two lowercase letters, in alphabetical order, except oo
+13-print_float: prints a number with two decimal places, taken from the environment variable NUM
+13-print_float: prints a number with two decimal places, taken from the environment variable NUM
