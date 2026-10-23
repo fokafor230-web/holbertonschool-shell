@@ -52,3 +52,4 @@ This repository contains shell scripting exercises from the Holberton School cur
 12-combinations: prints all possible combinations of two lowercase letters, in alphabetical order, except oo
 13-print_float: prints a number with two decimal places, taken from the environment variable NUM
 13-print_float: prints a number with two decimal places, taken from the environment variable NUM
+14-decimal_to_hexadecimal: converts a number from base 10 to base 16, taking the decimal number from the environment variable DECIMAL
